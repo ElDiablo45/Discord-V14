@@ -22,7 +22,8 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
+git clone https://github.com/ElDiablo45/Discord-V14.git
+cd Discord-V14
 npm install
 ```
 
